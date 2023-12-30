@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Oswald&display=swap');
+.bg{
+    background-color:#6096B4 ;
+}
+.bg1{
+    background-color:#BDCDD6 ;
+}
+.main-heading{
+    font-family: 'Lobster', cursive;
+    font-family: 'Oswald', ;
+    font-weight: 300px;
+    color:#c0daeb;
+    font-size:75px;
+}
+.para{
+    color: #c0daeb;
+    font-size:25px;
+    font-family: 'Oswald', sans-serif;
+}
+.transform{
+    font-family: 'Lobster', cursive !important;
+    font-family: 'Oswald', sans-serif;
+    font-size: 48px ;
+    color: #c0daeb;
+    text-decoration:underline;
+    padding-bottom: 15px;
+}
+bg-container{
+    background-color : #93BFCF;
+    height:100vh;
+    background-size: cover;
+}
+body{
+    background-color:#fffcfc ;
+    ;
+}  
+.about{
+    font-family: 'Bitter', serif;
+ font-family: 'Lobster', cursive;
+ font-family: 'Oswald', sans-serif;
+ font-weight: 800;
+ font-size: 45px;
+ 
+}
+
+.school{
+    font-family: "roboto";
+    font-size: 25px;
+    padding-top: 25px;
+}
+.card1 {
+    background-color: #fffcfc;
+    width: 375px;
+    max-width: 100%; /* Ensure it doesn't overflow its container */
+    height: 275px;
+    border-radius: 10px; /* Simplify border-radius for all corners */
+    padding: 10px; /* Add padding to create space inside the card */
+    box-shadow: 0 px 15px rgba(0, 0, 0, 0.1); /* Add a box shadow */
+    /* Additional styles */
+    /* You can add more styles as per your requirement */
+}
+
+.hod{
+    color:#6096B4;
+    font-family: 'Bitter', serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+    font-size: 62px ;
+}
+.hod-tag{
+    color: grey;
+}
+.address{
+    color: #6096B4;
+    font-family: "roboto";
+    font-size: 25px;
+}
+.sports{
+    padding-top: 15px;
+    padding-bottom: 5px;
+    font-size: 55px;
+    font-weight: 700;
+    color:#fffcfc;
+    font-family: roboto;
+}
+.a
+{
+text-decoration: none;
+}
+.indoor{
+    background-color: #fffcfc;
+    border-radius: 5px;
+    color:  #6096B4;
+}
+.activity{
+    background-color: #fffcfc;
+    border-radius: 5px;
+    width: auto;
+    color: #93BFCF;
+}
